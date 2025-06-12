@@ -7,7 +7,7 @@ A lightweight sequence-to-sequence pipeline that turns lengthy U.S. Congressiona
 ## Dataset
 | Name | Rows | Description |
 |------|------|-------------|
-| **BillSum** | ≈23 K bills | Official text + expert summary for U.S. Congress (2013-2018) and CA state bills (2015-2016). Sourced from Hugging Face Datasets. :contentReference[oaicite:0]{index=0} |
+| **BillSum** | ≈23 K bills | Official text + expert summary for U.S. Congress (2013-2018) and CA state bills (2015-2016). Sourced from Hugging Face Datasets. (https://huggingface.co/datasets/FiscalNote/billsum) |
 
 ---
 
